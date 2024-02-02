@@ -38,6 +38,7 @@ It's a comprehensive solution architecture that offers extremely intuitive, prod
   - By pre-installing the complex and numerous boilerplates of Clean Architecture, it is designed to apply Clean Architecture as you use it.
  
 ## Quick Start
+[![Alt text](https://i.ytimg.com/vi/aJ3-n-qua9s/maxresdefault.jpg)](https://youtu.be/aJ3-n-qua9s?si=Yk3bGrpRc-5PbMyi)
 1. Currently, the guide is centered around Mac.
 2. Please take a look around [here](https://doc.junes-architecture.lol/introduction/installation-guide-for-required-libraries) and figure out if there are any programs that haven't been installed.
 3. Go to the following GitHub [link](https://github.com/melodysdreamj/Junes-Flutter-Architecture.skeleton), click on "Use this template" -> "Create a new repository" to make a new repo, download it, and open it in Android Studio.

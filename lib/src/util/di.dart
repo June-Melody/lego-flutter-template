@@ -9,40 +9,7 @@ export 'handler/get_storage/_.dart';
 
 export 'handler/logger/_.dart';
 
-// export '../kit/package/function/phone_numbers_parser/_.dart';
-//
-// export '../kit/package/function/country_codes/_.dart';
-//
-// export '../kit/custom/function/my_image_compress/_.dart';
-//
-// export '../kit/package/function/Internet_connection_checker/_.dart';
-//
-// export '../kit/package/function/insta_assets_picker/_.dart';
-//
-// export '../kit/package/function/in_app_review/_.dart';
-//
-// export '../kit/package/function/fluttertoast/_.dart';
-//
-// export '../kit/custom/function/sample_string/_.dart';
-// export '../kit/package/function/flutter_image_compress/_.dart';
-//
-// export '../kit/custom/function/promise_all/_.dart';
-//
-// export '../kit/package/function/flutter_color/_.dart';
-//
-// export '../kit/custom/function/convert/_.dart';
-//
-// export '../kit/package/function/getx/_.dart';
-//
-// export '../kit/custom/function/date_time/_.dart';
-//
-// export '../kit/custom/function/random/_.dart';
-//
-// export '../kit/package/function/firebase_auth/_.dart';
-
 export 'config/_.dart';
-
-// export '../kit/custom/function/lang_code/_.dart';
 
 export 'params/my_package_info.dart';
 

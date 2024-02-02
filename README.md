@@ -38,11 +38,12 @@ It's a comprehensive solution architecture that offers extremely intuitive, prod
   - By pre-installing the complex and numerous boilerplates of Clean Architecture, it is designed to apply Clean Architecture as you use it.
  
 ## Quick Start
-1. Please take a look around [here](https://doc.junes-architecture.lol/introduction/installation-guide-for-required-libraries) and figure out if there are any programs that haven't been installed.
-2. Go to the following GitHub [link](https://github.com/melodysdreamj/Junes-Flutter-Architecture.skeleton), click on "Use this template" -> "Create a new repository" to make a new repo, download it, and open it in Android Studio.
-3. open the Find and Replace window (Edit -> Find -> Replace in Files...) and search for "june.lee.love" to replace it with the desired package name.
-4. Change 'name: love' in pubspec.yaml to name:<project name>
-5. Open the terminal and enter the following to download the packages.
+1. Currently, the guide is centered around Mac.
+2. Please take a look around [here](https://doc.junes-architecture.lol/introduction/installation-guide-for-required-libraries) and figure out if there are any programs that haven't been installed.
+3. Go to the following GitHub [link](https://github.com/melodysdreamj/Junes-Flutter-Architecture.skeleton), click on "Use this template" -> "Create a new repository" to make a new repo, download it, and open it in Android Studio.
+4. open the Find and Replace window (Edit -> Find -> Replace in Files...) and search for "june.lee.love" to replace it with the desired package name.
+5. Change 'name: love' in pubspec.yaml to name:<project name>
+6. Open the terminal and enter the following to download the packages.
 ```dart
 flutter pub get
 ```

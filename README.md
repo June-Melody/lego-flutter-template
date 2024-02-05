@@ -31,6 +31,9 @@ Here are some Legos that can easily be integrated with lego-flutter.
 4. Write down the parts that need to be manually changed (pubspec, ready.dart, etc.) and the installation section in detail in the README's installation section.
 5. If there are any dependent Legos, also write down that part in the Required Legos section.
 6. Write down the detailed usage instructions in the usage section.
+7. After uploading to GitHub, add the lego-flutter topic like this. (It will be registered under [GitHub topics](https://github.com/topics/lego-flutter).)
+![](https://github.com/melodysdreamj/lego-flutter/assets/21379657/3c3a0f08-daab-4312-b5a4-d4c89c40a7d0)
+8. Please register the Lego you made in the README of the [lego-flutter repository](https://github.com/melodysdreamj/lego-flutter).
 
 
 

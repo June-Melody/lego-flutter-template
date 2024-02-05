@@ -1,4 +1,4 @@
-# new.lego_flutter
+# [write here name].lego_flutter
 This is a Lego that applies a [write here name] to lego-flutter.
 
 ## introduction

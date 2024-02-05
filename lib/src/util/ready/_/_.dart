@@ -1,3 +1,3 @@
 import '../../../../../main.dart';
 
-Future<void> readyForNew() async {}
+Future<void> readyCallForNew() async {}

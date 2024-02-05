@@ -12,12 +12,12 @@ class InitView {
             child: ListView(
               children: [
                 Gap(20),
-                Text("New App")
+                Text("Lego App")
                     .textStyle(Theme.of(context).textTheme.displaySmall!)
                     .fontWeight(FontWeight.bold)
                     .center(),
                 Gap(20),
-                _button(context, "New Page", () {}),
+                _button(context, "New Button", () {}),
               ],
             ),
           ),

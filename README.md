@@ -2,7 +2,7 @@
 
 Lego Flutter is an architecture designed to easily apply complex code blocks(referred to as "Lego") and similar elements.
 
-# Getting Started
+## Getting Started
 1. click on "Use this template" -> "Create a new repository" to make a new repo, download it, and open it in Android Studio.
 2. open the Find and Replace window (Edit -> Find -> Replace in Files...) and search for "flutter.lego.architecture" to replace it with the desired package name.
 3. Change 'name: lego' in pubspec.yaml to name:<your project name>
@@ -15,7 +15,7 @@ flutter pub get
 flutter run
 ```
 
-# Legos
+## Legos
 Here are some Legos that can easily be integrated with lego-flutter.
 
 | Name | Description |

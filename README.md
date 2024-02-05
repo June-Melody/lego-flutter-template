@@ -16,7 +16,7 @@ flutter run
 ```
 
 # Legos
-Here are some Legos that can easily be integrated withlego-flutter.
+Here are some Legos that can easily be integrated with lego-flutter.
 
 | Name | Description |
 | --- | --- |

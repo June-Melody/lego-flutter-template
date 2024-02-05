@@ -9,7 +9,7 @@ analyzer:
     unnecessary_import: ignore
     dead_null_aware_expression: ignore
   exclude:
-    - install/**
+    - lego_store/**
 
 linter:
   rules:

@@ -37,7 +37,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-
     return MaterialApp(
       title: "Awesome Flutter StarterKit",
       theme: ThemeConfig.appTheme,
@@ -85,16 +84,16 @@ class _ViewState extends State<_ReadyPage> with AfterLayoutMixin<_ReadyPage> {
       data: MediaQuery.of(context).copyWith(textScaler: TextScaler.linear(1.0)),
       child: Scaffold(
           body: StreamBuilder(
-            stream: streamController.stream,
-            builder: (context, snapshot) {
-              if (snapshot.hasData) {
-                FlutterNativeSplash.remove();
-                return widget.home ?? snapshot.data as Widget;
-              } else {
-                return Container();
-              }
-            },
-          )),
+        stream: streamController.stream,
+        builder: (context, snapshot) {
+          if (snapshot.hasData) {
+            FlutterNativeSplash.remove();
+            return widget.home ?? snapshot.data as Widget;
+          } else {
+            return Container();
+          }
+        },
+      )),
     );
   }
 

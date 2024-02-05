@@ -1,12 +1,9 @@
 import 'package:flutter/material.dart';
 
-import '../../../../../../../util/start_app.dart';
-import 'use_case.dart';
+import '../../../util/start_app.dart';
 
 main() async {
-  button00(BuildContext context) async {
-    // var result = await NewUseCase.useCase.case1(query);
-  }
+  button00(BuildContext context) async {}
 
   button01(BuildContext context) async {}
 

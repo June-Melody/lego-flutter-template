@@ -1,3 +1,3 @@
 # Lego Flutter
 
-Lego Flutter is an architecture designed to easily apply complex code blocks and similar elements.
+Lego Flutter is an architecture designed to easily apply complex code blocks(referred to as "Lego") and similar elements.

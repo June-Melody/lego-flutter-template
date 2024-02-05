@@ -1,24 +1,23 @@
-# lego-flutter
+# new.lego_flutter
+This is a Lego that applies a [write here name] to lego-flutter.
 
-Lego Flutter is an architecture designed to easily apply complex code blocks(referred to as "Lego") and similar elements.
+## introduction
+[Please introduce this Lego to me.]
 
-## Getting Started
-1. click on "Use this template" -> "Create a new repository" to make a new repo, download it, and open it in Android Studio.
-2. open the Find and Replace window (Edit -> Find -> Replace in Files...) and search for "flutter.lego.architecture" to replace it with the desired package name.
-3. Change 'name: lego' in pubspec.yaml to name:<your project name>
-4. Open the terminal and enter the following to download the packages.
-```
-flutter pub get
-```
-5. Now, start the app
-```
-flutter run
+## Required Legos
+[If there are any Legos that need to be installed beforehand, please list them here. If not, you can delete this.]
+
+## installation
+[Please write down the detailed installation instructions. Below is a sample.]
+1. If you don't have lego-flutter yet, please prepare your own project by following the [instructions here](https://github.com/melodysdreamj/lego-flutter).
+2. Clone the repository and download it.
+3. Copy the all folder inside this project's lego, and then paste it under the `lib` folder of your project.
+4. In your project's `pubspec.yaml`, add `battery_plus 5.0.2` under `dependencies:`, and then run flutter pub get.
+5. In the `lib/util/ready/ready.dart` file, paste the `await readyForBatteryPlus();` code inside the readyForAppStart() function. Also, add `import 'battery_plus/ready.dart';`  at the top as a reference.
+6. In di.dart located at (lib/util/di.dart), add the following code:
+```dart
+export 'package:battery_plus/battery_plus.dart';
 ```
 
-## Legos
-Here are some Legos that can easily be integrated with lego-flutter.
-
-| Name | Description | Maintainer |
-| --- | --- | --- |
-| [**logger.log_flutter**](https://github.com/melodysdreamj/logger.lego-flutter) | Logger is one of the famous log packages in the Flutter community. When you use this package, the location of the logo printed in the console window comes out to the depth you set, making it very easy to use for debugging and more. In this Lego, we've wrapped logger one more time to make it even easier to use. | [melodysdreamj](https://github.com/melodysdreamj)
-| [**battery_plus.log_flutter**](https://github.com/melodysdreamj/logger.lego-flutter) | Battery_plus is one of the most famous packages related to batteries. | [melodysdreamj](https://github.com/melodysdreamj)
+# usage
+[Please explain in detail how to use it, including code blocks.]
